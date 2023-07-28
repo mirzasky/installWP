@@ -19,7 +19,7 @@ function extractZip($zipFile, $destination)
 }
 
 // URL file instalasi WordPress
-$wordpressFileURL = 'https://mirzasky.com/repo/wp.zip';
+$wordpressFileURL = 'https://raw.githubusercontent.com/mirzasky/installWP/main/wordpress-6.2.2.zip';
 // Lokasi penyimpanan file setelah diunduh
 $downloadDestination = 'wp.zip';
 // Lokasi direktori ekstraksi
